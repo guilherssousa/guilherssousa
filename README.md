@@ -5,6 +5,8 @@
 
 - 🔭 Atualmente estou desenvolvendo no [Mais Esports](https://maisesports.com.br)
 
+- ✉️ No final de 2021, desenvolvi o [Correio Anônimo](https://correioanonimo.com.br) e ajudei 8 mil pessoas a mandar mais de 20 mil mensagens para colegas.
+
 - 🌱 Vivendo e aprendendo sobre **Next.JS**
 
 - 📝 Eu costumo escrever sobre Esports em [https://twitter.com/krteazy](https://twitter.com/krteazy)
