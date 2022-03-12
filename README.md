@@ -5,9 +5,6 @@
 
 - 🔭 Atualmente estou desenvolvendo no [Mais Esports](https://maisesports.com.br)
 
-- ✉️ No final de 2021, desenvolvi o [Correio Anônimo](https://correioanonimo.com.br) e ajudei 8 mil pessoas a mandar mais de 20 mil mensagens para colegas.
-- 🎥 No começo de 2022, desenvolvi o [Dramaland](https://dramaland.vercel.com/), portal em Português sobre dramaturgia sul-coreana.
-
 - 🌱 Vivendo e aprendendo sobre **Next.JS**
 
 - 📝 Eu costumo escrever sobre Esports em [https://twitter.com/krteazy](https://twitter.com/krteazy)
@@ -17,6 +14,10 @@
 - 📫 Fala comigo **guilherssousa@gmail.com**
 
 - ⚡ Fun fact! **Os olhos dos gatos dilatam ;)**
+
+## Projetos
+- ✉️ No final de 2021, desenvolvi o [Correio Anônimo](https://correioanonimo.com.br) e ajudei 8 mil pessoas a mandar mais de 20 mil mensagens para colegas.
+- 🎥 No começo de 2022, desenvolvi o [Dramaland](https://dramaland.vercel.com/), portal em Português sobre dramaturgia sul-coreana.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
