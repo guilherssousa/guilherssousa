@@ -17,7 +17,7 @@
 
 ## Projetos
 - ✉️ No final de 2021, desenvolvi o [Correio Anônimo](https://correioanonimo.com.br) e ajudei 8 mil pessoas a mandar mais de 20 mil mensagens para colegas.
-- 🎥 No começo de 2022, desenvolvi o [Dramaland](https://dramaland.vercel.com/), portal em Português sobre dramaturgia sul-coreana.
+- 🎥 No começo de 2022, desenvolvi o [Dramaland](https://dramaland.vercel.app/), portal em Português sobre dramaturgia sul-coreana.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
