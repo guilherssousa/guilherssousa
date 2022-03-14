@@ -16,6 +16,7 @@
 - ⚡ Fun fact! **Os olhos dos gatos dilatam ;)**
 
 ## Projetos
+- Você pode conferir uma lista mais detalhada de projetos no [meu portfólio](https://guilherssousa.github.io/).
 - ✉️ No final de 2021, desenvolvi o [Correio Anônimo](https://correioanonimo.com.br) e ajudei 8 mil pessoas a mandar mais de 20 mil mensagens para colegas.
 - 🎥 No começo de 2022, desenvolvi o [Dramaland](https://dramaland.vercel.app/), portal em Português sobre dramaturgia sul-coreana.
 
