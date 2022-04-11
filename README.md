@@ -5,8 +5,6 @@
 
 - 🔭 Atualmente estou desenvolvendo no [Mais Esports](https://maisesports.com.br)
 
-- 🌱 Vivendo e aprendendo sobre **Next.JS**
-
 - 📝 Eu costumo escrever sobre Esports em [https://twitter.com/krteazy](https://twitter.com/krteazy)
 
 - 💬 AMA: **ReactJS, Express, Node, etc.**
