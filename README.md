@@ -1,4 +1,4 @@
-# Hi :)
+# Oi, prazer :)
 
 ## Projetos
 - ✉️ No final de 2021, desenvolvi o [Correio Anônimo](https://correioanonimo.com.br) e ajudei 8 mil pessoas a mandar mais de 20 mil mensagens para colegas.
