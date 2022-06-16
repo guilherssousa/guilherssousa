@@ -1,5 +1,8 @@
 # Oi, prazer :)
 
+Atualmente sou desenvolvedor Fullstack no @Mais Esports Tech.
+No tempo vago gosto de fazer projetos e de contribuir com traduções em projetos open-source :)
+
 ## Projetos
 - ✉️ No final de 2021, desenvolvi o [Correio Anônimo](https://correioanonimo.com.br) e ajudei 8 mil pessoas a mandar mais de 20 mil mensagens para colegas.
 - 🧑 No começo de 2022, desenvolvi meu [portfólio pessoal](https://guilherssousa.dev).
