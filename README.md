@@ -10,3 +10,7 @@
 - 🎥 Ainda em março, desenvolvi a [Hookpedia](https://hookpedia.now.sh/), repositório de hooks para React.
 - 🛋 Em abril, comecei um projeto esporádico, desenvolvendo o site do [Villa Studio](https://villastudio.netlify.app), um estúdio de branding fictício.
 - 📚 Ainda no mesmo mês, desenvolvi meu [blog pessoal](https://blog.guilherssousa.dev) onde escrevo sobre a construção dos meus projetos.
+
+## Contribuições
+
+Tenho contribuições registradas em projetos como [electron/electron](https://www.electronjs.org/pt), [pnpm/pnpm](https://pnpm.io/pt), [vercel/swr-site](https://swr.vercel.app/pt-BR) e outros :)
