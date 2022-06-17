@@ -13,4 +13,4 @@
 
 ## Contribuições
 
-Tenho contribuições registradas em projetos como [electron/electron](https://www.electronjs.org/pt), [pnpm/pnpm](https://pnpm.io/pt), [vercel/swr-site](https://swr.vercel.app/pt-BR) e outros :)
+Tenho contribuições registradas em projetos como [electron/electron](https://www.electronjs.org/pt), [pnpm/pnpm](https://pnpm.io/pt), [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) [vercel/swr-site](https://swr.vercel.app/pt-BR) e outros :)
