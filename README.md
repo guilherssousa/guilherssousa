@@ -1,6 +1,6 @@
 ## Oi, prazer :)
 
-- Atualmente sou desenvolvedor Fullstack no @Mais Esports Tech.
+- Atualmente sou desenvolvedor Fullstack no [Mais Esports Tech](https://github.com/maisesportstech).
 - No tempo vago gosto de fazer projetos e de contribuir com traduções em projetos open-source :)
 
 ### Projetos
