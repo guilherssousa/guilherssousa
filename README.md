@@ -1,13 +1,16 @@
-## Oi, prazer :)
+## Hi, nice to meet you :)
 
-- Sou desenvolvedor Fullstack no [Mais Esports Tech](https://github.com/maisesportstech) e também como freelancer.
-- No tempo vago gosto de fazer projetos e de contribuir com traduções em projetos open-source :)
-- Meu hobby são pesquisas envolvendo [Pokémons](https://github.com/guilherssousa/mew-machine), então não se assuste com a quantidade de repositórios sobre o assunto. :)
+- Fullstack Developer at [Mais Esports](https://maisesports.com.br/), also a freelancer.
+- Thinking since 2004, crafting since 2018.
+- I like to build projects and contribute to open source during spare time.
+- My hobbies are [Pokémons](https://github.com/guilherssousa/mew-machine), so don't get surprised by number of repositories on this subject. :)
 
-### Projetos
-- ✉️ No final de 2021, desenvolvi o [Correio Anônimo](https://correioanonimo.com.br) e ajudei 10 mil pessoas a mandar mais de 20 mil mensagens para colegas.
-- 🧑 No começo de 2022, desenvolvi meu [portfólio pessoal](https://guilherssousa.dev), onde conto mais sobre mim e escrevo sobre a construção dos meus outros projetos.
+### Projects
+Currently, I'm maintaining these projects:
+- [Correio Anônimo](https://correioanonimo.com.br), a place to send wholesome anonymous messages to your friends.
+- [My website](https://guilherssousa.dev) where I talk more about myself and write about projects and studies.
+- Currently I'm building a Pokédex progress assistant called [Pokéco](https://github.com/guilherssousa/pokeco), you should give a try. :)
 
-### Contribuições
+### Contributions
 
-Tenho contribuições registradas em projetos como [electron/electron](https://www.electronjs.org/pt), [pnpm/pnpm](https://pnpm.io/pt), [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js), [vercel/swr-site](https://swr.vercel.app/pt-BR) e outros :)
+I contributed to some open source projects, some of them: [electron/electron](https://www.electronjs.org/pt), [pnpm/pnpm](https://pnpm.io/pt), [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js), [vercel/swr-site](https://swr.vercel.app/pt-BR)
