@@ -9,7 +9,7 @@
 Currently, I'm maintaining these projects:
 - [Correio Anônimo](https://correioanonimo.com.br), a place to send wholesome anonymous messages to your friends.
 - [My website](https://guilherssousa.dev) where I talk more about myself and write about projects and studies.
-- Currently I'm building a Pokédex progress assistant called [Pokéco](https://github.com/guilherssousa/pokeco), you should give a try. :)
+- [Pokéco](https://github.com/guilherssousa/pokeco), a Pokédex progress assistant I'm building as a side project, still a WIP.
 
 ### Contributions
 
