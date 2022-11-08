@@ -3,9 +3,12 @@
 - Fullstack Developer at [Mais Esports](https://maisesports.com.br/), also a freelancer.
 - Thinking since 2004, crafting since 2018.
 - I like to build projects and contribute to open source during spare time.
-- My hobbies are [Pokémons](https://github.com/guilherssousa/mew-machine), so don't get surprised by number of repositories on this subject. :)
+- My hobbies are [Pokémons](https://github.com/guilherssousa/mew-machine) and Esports, so don't get surprised by number of repositories on this subject. :)
 
 ### Projects
+
+My featured project is the [Mew Machine](https://github.com/guilherssousa/mew-machine), a Python implementation of the Lost Mew Distribution Machine.
+
 Currently, I'm maintaining these projects:
 - [Correio Anônimo](https://correioanonimo.com.br), a place to send wholesome anonymous messages to your friends.
 - [My website](https://guilherssousa.dev) where I talk more about myself and write about projects and studies.
