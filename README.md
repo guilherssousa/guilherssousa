@@ -10,7 +10,6 @@
 My featured project is the [Mew Machine](https://github.com/guilherssousa/mew-machine), a Python implementation of the Lost Mew Distribution Machine.
 
 Currently, I'm maintaining these projects:
-- [Correio Anônimo](https://correioanonimo.com.br), a place to send wholesome anonymous messages to your friends.
 - [My website](https://guilherssousa.dev) where I talk more about myself and write about projects and studies.
 - [Pokéco](https://github.com/guilherssousa/pokeco), a Pokédex progress assistant I'm building as a side project, still a WIP.
 
