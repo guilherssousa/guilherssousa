@@ -5,7 +5,7 @@
 - I like to build projects and contribute to open source during spare time.
 - My hobbies are [Pokémons](https://github.com/guilherssousa/mew-machine) and Esports, so don't get surprised by number of repositories on this subject. :)
 - Currently running a TikTok series where I try to order food via a TV app.
-- 
+ 
 ### Projects
 
 My featured project is the [Mew Machine](https://github.com/guilherssousa/mew-machine), a Python implementation of the Lost Mew Distribution Machine.
