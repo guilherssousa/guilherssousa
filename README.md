@@ -16,4 +16,4 @@ Currently, I'm maintaining these projects:
 
 ### Contributions
 
-I contributed to some open source projects, some of them: [electron/electron](https://www.electronjs.org/pt), [pnpm/pnpm](https://pnpm.io/pt), [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js), [vercel/swr-site](https://swr.vercel.app/pt-BR)
+I contributed to some open source projects, some of them: [electron/electron](https://www.electronjs.org/pt), [pnpm/pnpm](https://pnpm.io/pt), [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js), [vercel/swr-site](https://swr.vercel.app/pt-BR).
