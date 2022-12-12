@@ -4,7 +4,7 @@
 - Thinking since 2004, crafting since 2018.
 - I like to build projects and contribute to open source during spare time.
 - My hobbies are [Pokémons](https://github.com/guilherssousa/mew-machine) and Esports, so don't get surprised by number of repositories on this subject. :)
-- Currently running a TikTok series where I try to order food via a TV app.
+- Currently making a TikTok series where I build a TV app to order food.
  
 ### Projects
 
