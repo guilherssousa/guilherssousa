@@ -1,16 +1,14 @@
 ## Hi, nice to meet you :)
 
-- Fullstack Developer at [Mais Esports](https://maisesports.com.br/), also a freelancer.
-- Thinking since 2004, crafting since 2018.
-- I like to build projects and contribute to open source during spare time.
-- My hobbies are [Pokémons](https://github.com/guilherssousa/mew-machine) and Esports, so don't get surprised by number of repositories on this subject. :)
-- Currently making a TikTok series where I build a TV app to order food.
+I like to consider myself as a software craftsman. Most of the time we are not coding but concerning on methods to solve the adversities we are introduced. Therefore, we are more than just coders!
+
+- Fullstack Developer at [Mais Esports](https://maisesports.com.br/), also a open source contributor and freelancer.
+- Most sideprojects are [Pokémons](https://github.com/guilherssousa/mew-machine) and Esports.
+- Also a newbie content creator on [TikTok](https://tiktok.com/@guisousadev).
  
 ### Projects
 
-My featured project is the [Mew Machine](https://github.com/guilherssousa/mew-machine), a Python implementation of the Lost Mew Distribution Machine.
-
-Currently, I'm maintaining these projects:
+My featured project is the [Mew Machine](https://github.com/guilherssousa/mew-machine), a Python implementation of the Lost Mew Distribution Machine. Currently, I'm maintaining these projects:
 - [My website](https://guilherssousa.dev) where I talk more about myself and write about projects and studies.
 - [Pokéco](https://github.com/guilherssousa/pokeco), a Pokédex progress assistant I'm building as a side project, still a WIP.
 
