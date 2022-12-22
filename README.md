@@ -3,7 +3,7 @@
 I like to consider myself as a software craftsman. Most of the time we are not coding but concerning on methods to solve the adversities we are introduced. Therefore, we are more than just coders!
 
 - Fullstack Developer at [Mais Esports](https://maisesports.com.br/), also a open source contributor and freelancer.
-- Most side projects are [Pokémons](https://github.com/guilherssousa/mew-machine) and Esports.
+- Most side projects are [Pokémon](https://github.com/guilherssousa/mew-machine) and Esports.
 - Also content creator on [TikTok](https://tiktok.com/@guisousadev).
  
 ### Projects
