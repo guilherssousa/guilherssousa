@@ -1,4 +1,4 @@
-1## Hi, nice to meet you :)
+## Hi, nice to meet you :)
 
 I like to consider myself as a software craftsman. Most of the time we are not coding but concerning on methods to solve the adversities we are introduced. Therefore, we are more than just coders!
 
