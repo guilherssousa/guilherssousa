@@ -5,6 +5,7 @@ I like to consider myself as a software craftsman. Most of the time we are not c
 - Fullstack Developer at [Mais Esports](https://maisesports.com.br/), also a open source contributor and 15-minute writer.
 - Most side projects are [Pokémon](https://github.com/guilherssousa/mew-machine) and Esports.
 - I code mostly in JS/TS, but I'm also use Python and Go when it's needed. :)
+- Majoring in Software Engineering at Universidade Estácio de Sá.
  
 ### Projects
 
