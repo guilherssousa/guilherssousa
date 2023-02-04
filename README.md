@@ -14,6 +14,7 @@ My featured project is the [Mew Machine](https://github.com/guilherssousa/mew-ma
 - [Pokéco](https://github.com/guilherssousa/pokeco), a Pokédex progress assistant I'm building as a side project, still a WIP.
 - [Dissecting `create-vite`](https://medium.com/@guilherssousa/dissecando-o-create-vite-entendendo-como-funciona-a-cli-do-vite-e6ddfa196029), a repo and a blog post where I explain the Vite CLI code.
 - [[adult swim bump generator]](https://as-bump.vercel.app), as you might guess, it's a Image Generator based by Adult Swim bumps.
+- Designing a better implementation for working with tournament brackets :)
 
 ### Contributions
 
