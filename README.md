@@ -18,4 +18,9 @@ My featured project is the [Mew Machine](https://github.com/guilherssousa/mew-ma
 
 ### Contributions
 
-I contributed to some open source projects, some of them: [electron/electron](https://www.electronjs.org/pt), [pnpm/pnpm](https://pnpm.io/pt), [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) and [vercel/swr-site](https://swr.vercel.app/pt-BR).
+I contributed as documentation translator to some open source projects, like:
+- [vercel/swr-site](https://swr.vercel.app/pt-BR)
+- [sveltejs/kit](https://github.com/sveltejs/kit)
+- [electron/electron](https://www.electronjs.org/pt)
+- [pnpm/pnpm](https://pnpm.io/pt)
+- [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js)
