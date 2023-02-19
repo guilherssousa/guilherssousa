@@ -16,7 +16,7 @@ My featured project is the [Mew Machine](https://github.com/guilherssousa/mew-ma
 - [[adult swim bump generator]](https://as-bump.vercel.app), as you might guess, it's a Image Generator based by Adult Swim bumps.
 - Designing a better implementation for working with tournament brackets :)
 
-### Contributions
+### Open Source
 
 I contributed as documentation translator to some open source projects, like:
 - [vercel/swr-site](https://swr.vercel.app/pt-BR)
