@@ -7,20 +7,6 @@ I like to consider myself as a software craftsman. Most of the time we are not c
 - I code mostly in JS/TS, but I'm also using Python and Go when it's needed. :)
 - Majoring in Software Engineering at Universidade Estácio de Sá.
  
-### Projects
+### Works
 
-My featured project is the [Mew Machine](https://github.com/guilherssousa/mew-machine), a Python implementation of the Lost Mew Distribution Machine. Currently, I'm maintaining these projects:
-- [My website](https://guilherssousa.dev) where I talk more about myself and write about projects and studies.
-- [Pokéco](https://github.com/guilherssousa/pokeco), a Pokédex progress assistant I'm building as a side project, still a WIP.
-- [Dissecting `create-vite`](https://medium.com/@guilherssousa/dissecando-o-create-vite-entendendo-como-funciona-a-cli-do-vite-e6ddfa196029), a repo and a blog post where I explain the Vite CLI code.
-- [[adult swim bump generator]](https://as-bump.vercel.app), as you might guess, it's a Image Generator based by Adult Swim bumps.
-- Designing a better implementation for working with tournament brackets :)
-
-### Open Source
-
-I contributed as documentation translator to some open source projects, like:
-- [vercel/swr-site](https://swr.vercel.app/pt-BR)
-- [sveltejs/kit](https://github.com/sveltejs/kit)
-- [electron/electron](https://www.electronjs.org/pt)
-- [pnpm/pnpm](https://pnpm.io/pt)
-- [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js)
+Check all my featured works clicking [here](https://www.guilherssousa.dev/works)
