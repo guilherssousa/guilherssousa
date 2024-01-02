@@ -9,4 +9,4 @@ I like to do some cool stuff.
  
 ### Works
 
-Check all my featured works clicking [here](https://www.guilherssousa.dev/works)
+Check all my featured works clicking [here](https://www.guilherssousa.dev/work)
