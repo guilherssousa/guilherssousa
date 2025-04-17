@@ -2,7 +2,7 @@
 
 I like to do some cool stuff.
 
-- Fullstack Developer at [Mais Esports](https://maisesports.com.br/).
+- Freelance Fullstack Developer
 - I code mostly in JS/TS, but I'm also using Python and Go when it's needed. :)
 - Undergraduating in Software Engineering.
  
